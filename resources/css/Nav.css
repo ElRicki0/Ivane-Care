@@ -7,6 +7,7 @@
 }
 
 .navbar{  
+    position: sticky;
     background-color: #1F1B47 !important;
     color: #fefefe !important;
 }
